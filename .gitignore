@@ -1,0 +1,9 @@
+.vscode/
+code/.vscode/
+code/__pycache__/
+code/data.db
+code/models/__pycache__/
+code/resources/__pycache__/
+env/
+test.py
+
